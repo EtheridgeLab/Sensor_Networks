@@ -261,7 +261,6 @@ Logger dataLogger(LoggerID, loggingInterval, &varArray);
 // No more than 8 fields of data can go to any one channel.  Any fields beyond
 // the eighth in the array will be ignored.
 
-//Will be removed in a future iteration of thingspeak
 const char* thingSpeakChannelID =
     "";  // The numeric channel id for your channel
 const char* thingSpeakMQTTusername =
