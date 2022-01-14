@@ -1,0 +1,14 @@
+howto_github_push_to_repository.txt
+
+Hi there! This is a quick tutorial of things to do in order to push updates to
+Github.
+
+1. Add a file/make an update to a file within the current package.
+
+2. Click the "Git icon at the bottom right of your screen.
+
+3. At the top of the screen in the "Unstaged Changes" tab, click on
+any of the files you wish to stage and hit Enter
+(Staging is preparing a file for Github comments and commiting to Github)
+
+4. 

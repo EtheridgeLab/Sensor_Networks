@@ -1,0 +1,23 @@
+howto_github_clone_repository.txt
+
+Hi there! This is a quick tutorial of things to do in order to set up Github
+within Atom.
+
+1. Setup a Github account at Github's website (sign up at the top right of the
+page). https://github.com/
+
+2. Install Git https://git-scm.com/downloads. When the installation manager,
+asks you for your text editor, select Atom. Later, select allow third party
+software.
+
+3. Once you have Atom installed on your computer, type Ctrl+8 on your computer.
+Follow the prompts to link Atom with Github and Atom with Git.
+
+4. Find the link for the repository on the Github website. Copy this link.
+
+5. Hit Ctrl+Shift+P on your computer and type Github:Clone.
+
+6. Paste the link from Step 4 into the second dialogue box.
+
+7. You're ready to go! The Github repository can now be directly updated
+from Atom.
