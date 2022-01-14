@@ -8,7 +8,18 @@ Github.
 2. Click the "Git icon at the bottom right of your screen.
 
 3. At the top of the screen in the "Unstaged Changes" tab, click on
-any of the files you wish to stage and hit Enter
+any of the files you wish to stage and hit Enter. If you wish to stage all
+of the documents, click "Stage All".
+
 (Staging is preparing a file for Github comments and commiting to Github)
 
-4. 
+4. Type a commit message in the commit message dialogue box.
+
+5. Choose a branch to commit to at the bottom right of the screen by clicking
+the Branch button (it kind of looks like a tree) and naming the branch. For
+the current stage of the project (January 2022), the default main branch is
+fine.
+
+6. Click the Push buttom next to the Branch button at the bottom right of the screen.
+
+7. The online Github repository should now be updated.
