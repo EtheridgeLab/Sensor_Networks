@@ -40,8 +40,8 @@ and many other contributors. To allow for this code to continue to be used in
 the future, I've added some comments to show the process of how data is uploaded
 to ThingSpeak. Finally, the other file that needs to mentioned here is the
 platformio.ini. This file is used by plaformio.ini to set up a lot of stuff
-on the front end. This is located at the bottom of the ThingSpeak folder (the
-very last item in the folder when you open it initially).
+on the front end. This is located at the bottom of the Mayfly1Coordinator520
+folder (the very last item in the folder when you open it initially).
 
 -------------------------------------------------------------------------------
 -------------------------------------------------------------------------------
@@ -103,7 +103,7 @@ this project and are included below:
 1. how_to_thingspeaksingular_mayfly_1point0_GW#.ino
 
 Where is how_to_thingspeaksingular_mayfly_1point0_GW#.ino found?:
-ThingSpeak->src->how_to_thingspeaksingular_mayfly_1point0_GW#
+Mayfly1Coordinator520->src->how_to_thingspeaksingular_mayfly_1point0_GW#
 
 File type: Arduino file
 
@@ -138,7 +138,7 @@ functions or variables found in other code scripts.
 2. LoggerBase.h
 
 Where is LoggerBase.h found?:
-ThingSpeak->pio->libdeps->mayfly->EnviroDIY_ModularSensors->src->LoggerBase.h
+Mayfly1Coordinator520->pio->libdeps->mayfly->EnviroDIY_ModularSensors->src->LoggerBase.h
 
 File type: C++ header file
 
@@ -215,7 +215,7 @@ y. dataLogger.logDataAndPublish();
 3. LoggerBase.cpp
 
 Where is LoggerBase.cpp found?:
-ThingSpeak->pio->libdeps->mayfly->EnviroDIY_ModularSensors->src->LoggerBase.cpp
+Mayfly1Coordinator520->pio->libdeps->mayfly->EnviroDIY_ModularSensors->src->LoggerBase.cpp
 
 File type: C++ implementation file
 
@@ -288,7 +288,7 @@ y. dataLogger.logDataAndPublish();
 
 4. ThingSpeakPublisher.h
 Where is ThingSpeakPublisher.h found?:
-ThingSpeak->pio->libdeps->mayfly->EnviroDIY_ModularSensors->src->publishers->ThingSpeakPublisher.h
+Mayfly1Coordinator520->pio->libdeps->mayfly->EnviroDIY_ModularSensors->src->publishers->ThingSpeakPublisher.h
 
 File type: C++ header file
 
@@ -325,7 +325,7 @@ thingSpeakMQTTusername, thingSpeakMQTTpassword, thingSpeakMQTTclientID);
 
 5. ThingSpeakPublisher.cpp
 Where is ThingSpeakPublisher.cpp found?:
-ThingSpeak->pio->libdeps->mayfly->EnviroDIY_ModularSensors->src->publishers->ThingSpeakPublisher.cpp
+Mayfly1Coordinator520->pio->libdeps->mayfly->EnviroDIY_ModularSensors->src->publishers->ThingSpeakPublisher.cpp
 
 File type: C++ implementation file
 
@@ -363,7 +363,7 @@ thingSpeakMQTTusername, thingSpeakMQTTpassword, thingSpeakMQTTclientID);
 6. PubSubClient.h
 
 Where is PubSubClient.h found?:
-ThingSpeak->pio->libdeps->mayfly->PubSubClient->src->PubSubClient.h
+Mayfly1Coordinator520->pio->libdeps->mayfly->PubSubClient->src->PubSubClient.h
 
 File type: C++ header file
 
@@ -401,7 +401,7 @@ thingSpeakMQTTusername, thingSpeakMQTTpassword, thingSpeakMQTTclientID);
 7. PubSubClient.cpp
 
 Where is PubSubClient.cpp found?:
-ThingSpeak->pio->libdeps->mayfly->PubSubClient->src->PubSubClient.cpp
+Mayfly1Coordinator520->pio->libdeps->mayfly->PubSubClient->src->PubSubClient.cpp
 
 File type: C++ implementation file
 
@@ -438,7 +438,7 @@ thingSpeakMQTTusername, thingSpeakMQTTpassword, thingSpeakMQTTclientID);
 8. MeterHydros21.h
 
 Where is MeterHydros21.h found?:
-ThingSpeak->pio->libdeps->mayfly->EnviroDIY_ModularSensors->src->sensors->MeterHydros21.h
+Mayfly1Coordinator520->pio->libdeps->mayfly->EnviroDIY_ModularSensors->src->sensors->MeterHydros21.h
 
 File type: C++ header file
 
@@ -486,7 +486,7 @@ l. Logger dataLogger(LoggerID, loggingInterval, &varArray);
 9. VariableArray.h
 
 Where is VariableArray.h found?:
-ThingSpeak->pio->libdeps->mayfly->EnviroDIY_ModularSensors->src->sensors->MeterHydros21.h
+Mayfly1Coordinator520->pio->libdeps->mayfly->EnviroDIY_ModularSensors->src->sensors->MeterHydros21.h
 
 File type: C++ header file
 
@@ -522,7 +522,7 @@ g. varArray.setupSensors();
 10. VariableArray.cpp
 
 Where is VariableArray.cpp found?:
-ThingSpeak->pio->libdeps->mayfly->EnviroDIY_ModularSensors->src->sensors->MeterHydros21.h
+Mayfly1Coordinator520->pio->libdeps->mayfly->EnviroDIY_ModularSensors->src->sensors->MeterHydros21.h
 
 File type: C++ implementation file
 
