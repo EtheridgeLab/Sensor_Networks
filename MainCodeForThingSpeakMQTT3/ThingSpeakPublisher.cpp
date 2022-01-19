@@ -11,7 +11,8 @@
  // code_ThingSpeakPublisher
 
  // Hi there! If you're working on this project and you made it here, congrats!
- // It's quite a trek. The way I'm labeling these code sections (.h and .cpp)
+ // It's quite a trek. The way I'm labeling these code sections (ThingSpeakPublisher.h
+//  and ThingSpeakPublisher.cpp)
  // files is different from how I labelled the Arduino libraries. Most of the
  // code in this library works just as it needs to for our project. There were
  // a few things I had to change to make the code run properly. I've labeled
