@@ -1,0 +1,7 @@
+The Custom Sensor project is used with a custom pressure sensor to measure water level.
+
+This code was written to set up the RTC in the assembly so that a user to program the sensor's timing from the command prompt.
+
+The code goes through a series of prompts about when the user would like for data to begin being recorded.
+
+This code could be shortened substantially.
