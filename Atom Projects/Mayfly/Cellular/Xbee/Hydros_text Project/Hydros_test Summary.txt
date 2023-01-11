@@ -1,0 +1,6 @@
+This project is programmed to the Mayfly 0.5b with a LTE Xbee attached to it to begin the LTE Xbee's first connection to the internet. It can take a while for the LTE Xbee to
+first connect.
+
+The script used to connect the LTE Xbee for the first time is called LTExBee_FirstConnection.
+
+The other script, sensor_test, is used to receive data from the Mayfly 0.5b's with radio Xbee's attached.
