@@ -1,0 +1,8 @@
+The projects GW1 through GW5 were written to be used with EnviroDIY Mayfly 0.5b's and Xbee Radios.
+
+With this set up, 5 Mayflys would be endpoints (with sensors connected to them) and one Mayfly would be a coordinator. The coordinator would send data to the cloud.
+
+GW1 through GW5 are projects each for a specific Mayfly. The initial thought was that delays could be integrated into the LoggerBase.h and LoggerBase.cpp code to allow for better timing
+of data.
+
+However, this did not yield results as expected. There is still some functionality, but these programs will require some work.
