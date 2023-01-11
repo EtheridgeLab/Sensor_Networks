@@ -1,0 +1,3 @@
+Part of programming Cellular Xbee as a coordinator for receiving sensor data from the 5 Mayfly 0.5b's.
+
+Hydros_test project is the current version of this project.
