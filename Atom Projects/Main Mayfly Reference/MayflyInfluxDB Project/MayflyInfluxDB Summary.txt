@@ -1,0 +1,1 @@
+This project was a prototype for the integrating a Mayfly system with a InfluxDB cloud database.
