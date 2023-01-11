@@ -1,0 +1,5 @@
+The Cellular project is used to connect EnviroDIY Mayfly's to the internet.
+
+This code is programmed for the Xbee Cellular modem's that we initially tried to use with the Mayfly 0.5's.
+
+This code may require some adapting and extra code in order to work.
