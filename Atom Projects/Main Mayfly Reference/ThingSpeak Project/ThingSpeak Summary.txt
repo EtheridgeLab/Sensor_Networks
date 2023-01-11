@@ -1,0 +1,11 @@
+This is the primary project that should be used to program the Mayfly assemblies out at WRC.
+
+
+The files in the src folder that end in GW1 through GW5 should be programmed to their respective WRC sites. These files will need to be adapted to not
+include ThingSpeak.
+
+The logging_to_influxDB file should be used in the future to upload Chip and Colby's cellular cloud.
+
+The how to file is a generic tutorial on how files like these work.
+
+Files that end with a z can be ignored, but may be useful in the future.
